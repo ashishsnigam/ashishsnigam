@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ashish!
 
-- I am currently working with [EDJX]. A US based startup building serverless EDGE Computing Platform.
+- I am currently working with [EDJX]. A US based startup building serverless EDGE computing platform.
 - My current profile is SDET/Automation Framework develper and all things about System Validation setups including Devops tools, infra. You can see my official contributions at my [official github] account.
 - I have 15+ years of experience.
 - My current coding language is Golang and previously I worked with Python for almost 10+ years.
