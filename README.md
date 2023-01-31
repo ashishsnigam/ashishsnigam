@@ -5,7 +5,7 @@
 - I have 15+ years of experience.
 - My current coding language is Golang and previously I worked with Python for almost 10+ years.
 - In my previous jobs I have worked as a Backend Developer.
-- Product development mindset. Proven experiecne in desiging, reviewing and execution.
+- Product development mindset. Proven experience in desiging, reviewing and execution of complex product features.
 - In my free time, I contributed for few open source repos in Golang from this account only.
 
 
