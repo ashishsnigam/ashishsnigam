@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ashish!
 
 - I am currently working with [EDJX]. A US based startup building serverless EDGE computing platform.
-- My current profile is SDET/Automation Framework develper and all things about System Validation setups including Devops tools, infra. You can see my official contributions at my [official github] account.
+- My current profile is SDET/Automation Framework develper and all things about System Validation setups including Devops tools, infra. You can see my official contributions at my [official github] account or in captured [SS].
 - I have 15+ years of experience.
 - My current coding language is Golang and previously I worked with Python for almost 10+ years.
 - In my previous jobs I have worked as a Backend Developer.
@@ -11,6 +11,7 @@
 
 [EDJX]: http://edjx.io
 [official github]: https://github.com/ashishedjx
+[SS]: edjx_github1.png
 
 <!--
 **ashishsnigam/ashishsnigam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
