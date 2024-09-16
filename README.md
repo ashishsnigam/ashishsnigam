@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Ashish!
 
+Date - Feb 2023
+
 - I am currently working with [EDJX]. A US based startup building serverless EDGE computing platform.
 - My current profile is SDET/Automation Framework develper and all things about System Validation setups including Devops tools, infra. You can see my official contributions at my [official github] account or in captured [SS].
 - I have 15+ years of experience.
